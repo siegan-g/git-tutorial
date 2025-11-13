@@ -3,6 +3,7 @@ This is a test sentence.
 
 # Git
 
+# Git
 - Use the following repository to get familiar with the basics of Git and GitHub
 
 ## Table of Contents
