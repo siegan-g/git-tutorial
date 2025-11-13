@@ -1,6 +1,3 @@
-## Test
-This is a test sentence.
-
 # Git
 
 - Use the following repository to get familiar with the basics of Git and GitHub
